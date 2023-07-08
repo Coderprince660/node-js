@@ -1,0 +1,19 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "My",
+  "main": "index3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "my",
+    "app"
+  ],
+  "author": "Prince Kushwaha",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "color": "^4.2.3"
+  }
+}
